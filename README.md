@@ -5,7 +5,7 @@ Code for Hunt Camouflaged Objects via Revealing Mutation Regions
 
 December 27, 2024: Received the Decision to ACCEPT WITH MANDATORY MINOR REVISIONS from TIFS  🎉  
 
-December 30, 2024: codes are released 🔥 
+December 30, 2024: Codes are released 🔥 
 
 ## Requirements
 
