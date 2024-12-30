@@ -19,73 +19,140 @@ addict                        2.4.0
 aiobotocore                   2.5.0
 
 aiofiles                      22.1.0
+
 aiohttp                       3.8.3
+
 aioitertools                  0.7.1
+
 aiosignal                     1.2.0
+
 aiosqlite                     0.18.0
+
 alabaster                     0.7.12
+
 albumentations                1.3.1
+
 aliyun-python-sdk-core        2.13.36
+
 aliyun-python-sdk-kms         2.16.1
+
 anyio                         3.5.0
+
 apex                          0.1
+
 appdirs                       1.4.4
+
 argon2-cffi                   21.3.0
+
 argon2-cffi-bindings          21.2.0
+
 arrow                         1.2.3
+
 astroid                       2.14.2
+
 astropy                       5.1
+
 asttokens                     2.0.5
+
 astunparse                    1.6.3
+
 async-timeout                 4.0.2
+
 atomicwrites                  1.4.0
+
 attrs                         23.2.0
+
 Automat                       20.2.0
+
 autopep8                      1.6.0
+
 Babel                         2.11.0
+
 backcall                      0.2.0
+
 bcrypt                        3.2.0
+
 beautifulsoup4                4.12.2
+
 binaryornot                   0.4.4
+
 black                         0.0
+
 bleach                        4.1.0
+
 bokeh                         2.4.3
+
 botocore                      1.29.76
+
 Bottleneck                    1.3.5
+
 brotlipy                      0.7.0
+
 cachetools                    5.3.1
+
 certifi                       2023.7.22
+
 cffi                          1.15.1
+
 chardet                       4.0.0
+
 charset-normalizer            2.0.4
+
 clang                         5.0
+
 click                         8.0.4
+
 cloudpickle                   2.2.1
+
 colorama                      0.4.6
+
 colorcet                      3.0.1
+
 comm                          0.1.2
+
 constantly                    15.1.0
+
 contourpy                     1.0.5
+
 cookiecutter                  1.7.3
+
 crcmod                        1.7
 cryptography                  39.0.1
+
 cssselect                     1.1.0
+
 cycler                        0.11.0
+
 cytoolz                       0.12.0
+
 daal4py                       2023.1.1
+
 dask                          2023.4.1
+
 datashader                    0.15.1
+
 datashape                     0.5.4
+
 debugpy                       1.5.1
+
 decorator                     5.1.1
+
 defusedxml                    0.7.1
+
 diff-match-patch              20200713
+
 dill                          0.3.6
+
 distributed                   2023.4.1
+
 docstring-to-markdown         0.11
+
 docutils                      0.18.1
+
 easing-functions              1.0.4
+
 einops                        0.6.1
+
 entrypoints                   0.4
 et-xmlfile                    1.1.0
 exceptiongroup                1.0.4
@@ -343,66 +410,128 @@ statsmodels                   0.14.0
 sympy                         1.11.1
 tables                        3.8.0
 tabulate                      0.8.10
+
 TBB                           0.2
+
 tblib                         1.7.0
+
 tenacity                      8.2.2
+
 tensorboard                   2.14.0
+
 tensorboard-data-server       0.7.2
+
 tensorboard-plugin-wit        1.8.1
+
 tensorboardX                  2.6.2.2
+
 tensorflow-estimator          2.13.0
+
 tensorflow-gpu                2.6.0
+
 tensorly                      0.8.1
+
 termcolor                     1.1.0
+
 terminado                     0.17.1
+
 text-unidecode                1.3
+
 textdistance                  4.2.1
+
 thop                          0.1.1.post2209072238
+
 threadpoolctl                 2.2.0
+
 three-merge                   0.1.1
+
 tifffile                      2021.7.2
+
 timm                          0.5.4
+
 tinycss2                      1.2.1
+
 tldextract                    3.2.0
+
 tokenizers                    0.13.2
+
 toml                          0.10.2
+
 tomli                         2.0.1
+
 tomlkit                       0.11.1
+
 toolz                         0.12.0
+
 torch                         2.1.0.dev20230720+cu118
+
 torchaudio                    2.1.0.dev20230721+cu118
+
 torchvision                   0.16.0.dev20230721+cu118
+
 tornado                       6.2
+
 tqdm                          4.65.0
+
 traitlets                     5.7.1
+
 transformers                  4.24.0
+
 ttach                         0.0.3
+
 Twisted                       22.10.0
+
 twisted-iocpsupport           1.0.2
+
 typing_extensions             4.7.1
+
 ujson                         5.4.0
+
 ultralytics                   8.0.219
+
 Unidecode                     1.2.0
+
 urllib3                       1.26.16
+
 w3lib                         1.21.0
+
 watchdog                      2.1.6
+
 wcwidth                       0.2.5
+
 webencodings                  0.5.1
+
 websocket-client              0.58.0
+
 Werkzeug                      2.2.3
+
 whatthepatch                  1.0.2
+
 wheel                         0.38.4
+
 widgetsnbextension            4.0.5
+
+
 win-inet-pton                 1.1.0
+
 wrapt                         1.12.1
+
 xarray                        2022.11.0
+
 xlwings                       0.29.1
+
 y-py                          0.5.9
+
 yapf                          0.31.0
+
 yarl                          1.8.1
+
 ypy-websocket                 0.8.2
+
 zict                          2.2.0
+
 zipp                          3.11.0
+
 zope.interface                5.4.0
 
 ## Test
