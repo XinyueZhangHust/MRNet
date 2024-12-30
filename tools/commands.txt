@@ -1,0 +1,2 @@
+main.py --model-name=MRNet --config=configs/MRNet/cod_MRNet.py --datasets-info ./configs/_base_/dataset/dataset_configs.json
+main.py --model-name=MRNet_CK --config=configs/MRNet/sod_MRNet.py --datasets-info ./configs/_base_/dataset/dataset_configs.json

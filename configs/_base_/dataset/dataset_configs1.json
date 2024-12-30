@@ -1,0 +1,90 @@
+{
+    "cod10k_camo_tr": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/train",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    },
+    "camo_te1": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/CAMO",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    },
+    "cod10k_te": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/COD10k/",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    },
+    "cpd1k_te": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/cpd1k/",
+    "image": {
+    "path": "Frame",
+    "suffix": ".jpg"
+    },
+    "mask": {
+    "path": "GT",
+    "suffix": ".png"
+    }
+    },
+    "chameleon": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/CHAMWLEON/",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    },
+
+    "nc4k": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/Nc4K/",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    }
+
+}

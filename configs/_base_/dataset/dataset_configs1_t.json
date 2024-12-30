@@ -1,0 +1,19 @@
+{
+   
+    "camo_te": {
+    "root": "D:/datasetCAM/TrainDatasetForCOD/COD10k_A_CAMO_384/test/COD10K",
+    "image": {
+      "path": "Frame",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "Edge",
+      "suffix": ".png"
+    }
+    }
+
+}
