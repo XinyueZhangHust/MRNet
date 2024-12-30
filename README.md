@@ -10,10 +10,14 @@ December 30, 2024: codes are released 🔥
 ## Requirements
 
 Package                       Version
------------------------------ ------------------------
+
+
 absl-py                       0.15.0
+
 addict                        2.4.0
+
 aiobotocore                   2.5.0
+
 aiofiles                      22.1.0
 aiohttp                       3.8.3
 aioitertools                  0.7.1
