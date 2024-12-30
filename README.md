@@ -11,6 +11,16 @@ December 30, 2024: codes are released 🔥
 
 For detailed environment configuration, please refer to the ./requirements.txt file.
 
+## Weight logs
+
+The weight files required for the test can be downloaded from the following link:
+
+File shared via cloud storage: state_final.pth
+
+Link: https://pan.baidu.com/s/16uOM-0CsTaOXJ4JgLYdgzQ?pwd=7uct
+
+Extraction code: 7uct
+
 ## Test
 
 If you would like to test, simply download our weights, modify the path to the weight file, and then run the following command:
@@ -29,4 +39,5 @@ Link: https://pan.baidu.com/s/1CkMvieRsbHxSfEp9yUXNFA?pwd=v3p1
 
 Extraction code: v3p1
 
--- Shared by Baidu Cloud Super Member v8"
+
+
