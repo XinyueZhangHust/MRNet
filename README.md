@@ -2,6 +2,7 @@
 Code for Hunt Camouflaged Objects via Revealing Mutation Regions
 
 ## News
+January 10, 2025: Received the Decision to ACCEPT from TIFS  🎉  
 
 December 27, 2024: Received the Decision to ACCEPT WITH MANDATORY MINOR REVISIONS from TIFS  🎉  
 
